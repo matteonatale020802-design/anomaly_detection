@@ -1,8 +1,8 @@
 import cv2
 import json
 
-image_path = "C:\\Users\\matteonatale\\Desktop\\anomaly_detection\\images\\"
-img = cv2.imread(image_path + "pcb.png")
+image_path = 'C:\\Job\\anomaly_detection\\images\\'
+img = cv2.imread(image_path + "pcb.jpeg")
 clone = img.copy()
 
 boxes = []
