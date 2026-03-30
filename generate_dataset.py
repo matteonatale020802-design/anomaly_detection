@@ -5,10 +5,10 @@ import numpy as np
 import shutil
 
 # --- CONFIGURAZIONE ---
-ORIGINAL_IMAGE = r"C:\Users\MatteoNatale\OneDrive - GSR TECHNOLOGY\Desktop\job\anomaly_detection-1\images\pcb.jpeg"
+ORIGINAL_IMAGE = r"C:\Users\MatteoNatale\OneDrive - GSR TECHNOLOGY\Desktop\job\anomaly_detection-1\images\pcb2.jpeg"
 LABELS_FILE = "bounding_boxes.labels"
 OUTPUT_DIR = "dataset_per_edge_impulse"
-REPLICAS = 100 
+REPLICAS = 30 
 
 if not os.path.exists(OUTPUT_DIR):
     os.makedirs(OUTPUT_DIR)
@@ -39,7 +39,7 @@ print(f"Generazione di {REPLICAS} repliche UNICHE...")
 
 # 2. Generiamo le copie con variazioni invisibili
 for i in range(1, REPLICAS + 1):
-    new_name = f"pcb_unique_{i:03d}.jpeg"
+    new_name = f"pcb_connector_2_{i:03d}.jpeg"
     dest_path = os.path.join(OUTPUT_DIR, new_name)
     
     # Aggiungiamo un leggerissimo rumore casuale ai pixel
