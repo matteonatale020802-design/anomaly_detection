@@ -1,7 +1,7 @@
 import cv2
 import json
 
-image_path = 'C:\\Job\\anomaly_detection\\images\\'
+image_path = r"C:\Users\MatteoNatale\OneDrive - GSR TECHNOLOGY\Desktop\job\anomaly_detection-1\images\\"
 img = cv2.imread(image_path + "pcb.jpeg")
 clone = img.copy()
 

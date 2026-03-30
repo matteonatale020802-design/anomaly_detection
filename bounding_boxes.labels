@@ -5,402 +5,66 @@
         "pcb.jpeg": [
             {
                 "label": "inductor",
-                "x": 26,
+                "x": 35,
                 "y": 54,
-                "width": 240,
-                "height": 228
+                "width": 245,
+                "height": 267
             },
             {
                 "label": "capacitor",
-                "x": 364,
-                "y": 98,
-                "width": 115,
-                "height": 142
-            },
-            {
-                "label": "capacitor",
-                "x": 327,
-                "y": 319,
-                "width": 211,
-                "height": 207
-            },
-            {
-                "label": "capacitor",
-                "x": 496,
-                "y": 17,
-                "width": 51,
-                "height": 85
-            },
-            {
-                "label": "capacitor",
-                "x": 568,
-                "y": 36,
-                "width": 33,
-                "height": 52
-            },
-            {
-                "label": "capacitor",
-                "x": 249,
-                "y": 342,
-                "width": 41,
-                "height": 59
-            },
-            {
-                "label": "capacitor",
-                "x": 81,
-                "y": 340,
-                "width": 34,
-                "height": 29
-            },
-            {
-                "label": "capacitor",
-                "x": 74,
-                "y": 376,
-                "width": 53,
-                "height": 33
-            },
-            {
-                "label": "resistor",
-                "x": 80,
-                "y": 428,
-                "width": 52,
-                "height": 33
-            },
-            {
-                "label": "resistor",
-                "x": 160,
-                "y": 461,
-                "width": 61,
-                "height": 40
-            },
-            {
-                "label": "diode",
-                "x": 157,
-                "y": 501,
-                "width": 109,
-                "height": 85
-            },
-            {
-                "label": "diode",
-                "x": 77,
-                "y": 524,
-                "width": 43,
-                "height": 44
-            },
-            {
-                "label": "Ferrite Chip",
-                "x": 174,
-                "y": 582,
-                "width": 75,
-                "height": 50
-            },
-            {
-                "label": "resistor",
-                "x": 515,
-                "y": 566,
-                "width": 59,
-                "height": 48
-            },
-            {
-                "label": "resistor",
-                "x": 510,
-                "y": 614,
-                "width": 77,
-                "height": 58
-            },
-            {
-                "label": "resistor",
-                "x": 524,
-                "y": 833,
-                "width": 50,
-                "height": 48
-            },
-            {
-                "label": "resistor",
-                "x": 516,
-                "y": 889,
-                "width": 58,
-                "height": 48
-            },
-            {
-                "label": "capacitor",
-                "x": 350,
-                "y": 1000,
-                "width": 37,
-                "height": 62
-            },
-            {
-                "label": "capacitor",
-                "x": 507,
-                "y": 993,
-                "width": 41,
-                "height": 71
-            },
-            {
-                "label": "connector",
-                "x": 66,
-                "y": 649,
-                "width": 260,
-                "height": 420
-            },
-            {
-                "label": "Ferrite Chip",
-                "x": 57,
-                "y": 1091,
-                "width": 72,
-                "height": 48
-            },
-            {
-                "label": "resistor",
-                "x": 140,
-                "y": 1081,
-                "width": 92,
-                "height": 59
-            },
-            {
-                "label": "Ferrite Chip",
-                "x": 238,
-                "y": 1083,
-                "width": 81,
-                "height": 59
-            },
-            {
-                "label": "diode",
-                "x": 355,
-                "y": 1091,
-                "width": 32,
-                "height": 73
-            },
-            {
-                "label": "Ferrite Chip",
-                "x": 402,
-                "y": 1091,
-                "width": 39,
-                "height": 84
-            },
-            {
-                "label": "resistor",
-                "x": 458,
-                "y": 1094,
-                "width": 34,
-                "height": 75
-            },
-            {
-                "label": "Ferrite Chip",
-                "x": 510,
-                "y": 1089,
-                "width": 34,
-                "height": 84
-            },
-            {
-                "label": "resistor",
-                "x": 565,
-                "y": 1092,
-                "width": 33,
-                "height": 72
-            },
-            {
-                "label": "diode",
-                "x": 616,
-                "y": 1102,
-                "width": 37,
-                "height": 62
-            },
-            {
-                "label": "resistor",
-                "x": 52,
-                "y": 1164,
-                "width": 37,
-                "height": 72
-            },
-            {
-                "label": "diode",
-                "x": 124,
-                "y": 1150,
-                "width": 129,
-                "height": 119
-            },
-            {
-                "label": "resistor",
-                "x": 284,
-                "y": 1165,
-                "width": 28,
-                "height": 71
-            },
-            {
-                "label": "resistor",
-                "x": 57,
-                "y": 1265,
-                "width": 70,
-                "height": 48
-            },
-            {
-                "label": "resistor",
-                "x": 241,
-                "y": 1265,
-                "width": 77,
-                "height": 48
-            },
-            {
-                "label": "capacitor",
-                "x": 91,
-                "y": 1342,
-                "width": 32,
-                "height": 52
-            },
-            {
-                "label": "Regulator",
-                "x": 140,
-                "y": 1323,
-                "width": 95,
-                "height": 94
-            },
-            {
-                "label": "connector",
-                "x": 273,
-                "y": 1334,
-                "width": 415,
-                "height": 202
-            },
-            {
-                "label": "capacitor",
-                "x": 369,
-                "y": 1213,
-                "width": 43,
-                "height": 58
-            },
-            {
-                "label": "connector",
-                "x": 785,
-                "y": 1089,
-                "width": 372,
-                "height": 205
-            },
-            {
-                "label": "capacitor",
-                "x": 1266,
-                "y": 1405,
-                "width": 89,
-                "height": 54
-            },
-            {
-                "label": "resistor",
-                "x": 1247,
-                "y": 1185,
-                "width": 95,
-                "height": 73
-            },
-            {
-                "label": "LED driver",
-                "x": 1263,
-                "y": 1283,
-                "width": 104,
-                "height": 86
-            },
-            {
-                "label": "capacitor",
-                "x": 1236,
-                "y": 1060,
-                "width": 51,
-                "height": 102
-            },
-            {
-                "label": "inductor",
-                "x": 1384,
-                "y": 1260,
-                "width": 150,
-                "height": 192
-            },
-            {
-                "label": "inductor",
-                "x": 1361,
-                "y": 1018,
-                "width": 178,
-                "height": 182
-            },
-            {
-                "label": "capacitor",
-                "x": 1393,
-                "y": 1202,
-                "width": 111,
-                "height": 58
-            },
-            {
-                "label": "diode",
-                "x": 1252,
-                "y": 877,
-                "width": 267,
-                "height": 152
-            },
-            {
-                "label": "Ferrite Chip",
-                "x": 1132,
-                "y": 910,
-                "width": 92,
-                "height": 58
-            },
-            {
-                "label": "capacitor",
-                "x": 647,
-                "y": 956,
-                "width": 72,
-                "height": 50
-            },
-            {
-                "label": "capacitor",
-                "x": 779,
-                "y": 895,
-                "width": 63,
-                "height": 42
-            },
-            {
-                "label": "capacitor",
-                "x": 966,
-                "y": 885,
-                "width": 32,
-                "height": 87
-            },
-            {
-                "label": "capacitor",
-                "x": 1006,
-                "y": 983,
-                "width": 69,
-                "height": 54
-            },
-            {
-                "label": "resistor",
-                "x": 783,
-                "y": 943,
-                "width": 60,
-                "height": 42
-            },
-            {
-                "label": "resistor",
-                "x": 876,
-                "y": 989,
-                "width": 67,
-                "height": 44
-            },
-            {
-                "label": "resistor",
-                "x": 1224,
-                "y": 751,
-                "width": 57,
-                "height": 73
-            },
-            {
-                "label": "resistor",
-                "x": 1319,
-                "y": 751,
-                "width": 48,
-                "height": 73
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
             },
             {
                 "label": "ESP32",
-                "x": 650,
-                "y": 10,
-                "width": 696,
-                "height": 714
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
             }
         ]
     }

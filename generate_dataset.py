@@ -5,10 +5,10 @@ import numpy as np
 import shutil
 
 # --- CONFIGURAZIONE ---
-ORIGINAL_IMAGE = r"C:\Job\anomaly_detection\images\pcb.jpeg"
+ORIGINAL_IMAGE = r"C:\Users\MatteoNatale\OneDrive - GSR TECHNOLOGY\Desktop\job\anomaly_detection-1\images\pcb.jpeg"
 LABELS_FILE = "bounding_boxes.labels"
 OUTPUT_DIR = "dataset_per_edge_impulse"
-REPLICAS = 500 
+REPLICAS = 100 
 
 if not os.path.exists(OUTPUT_DIR):
     os.makedirs(OUTPUT_DIR)

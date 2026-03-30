@@ -1,0 +1,6506 @@
+{
+    "version": 1,
+    "type": "bounding-box-labels",
+    "boundingBoxes": {
+        "pcb_unique_001.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_002.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_003.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_004.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_005.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_006.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_007.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_008.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_009.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_010.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_011.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_012.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_013.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_014.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_015.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_016.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_017.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_018.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_019.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_020.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_021.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_022.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_023.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_024.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_025.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_026.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_027.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_028.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_029.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_030.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_031.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_032.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_033.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_034.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_035.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_036.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_037.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_038.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_039.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_040.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_041.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_042.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_043.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_044.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_045.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_046.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_047.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_048.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_049.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_050.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_051.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_052.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_053.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_054.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_055.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_056.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_057.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_058.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_059.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_060.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_061.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_062.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_063.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_064.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_065.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_066.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_067.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_068.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_069.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_070.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_071.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_072.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_073.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_074.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_075.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_076.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_077.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_078.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_079.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_080.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_081.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_082.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_083.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_084.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_085.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_086.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_087.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_088.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_089.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_090.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_091.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_092.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_093.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_094.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_095.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_096.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_097.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_098.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_099.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ],
+        "pcb_unique_100.jpeg": [
+            {
+                "label": "inductor",
+                "x": 35,
+                "y": 54,
+                "width": 245,
+                "height": 267
+            },
+            {
+                "label": "capacitor",
+                "x": 332,
+                "y": 307,
+                "width": 199,
+                "height": 221
+            },
+            {
+                "label": "ESP32",
+                "x": 617,
+                "y": 13,
+                "width": 739,
+                "height": 713
+            },
+            {
+                "label": "connector",
+                "x": 71,
+                "y": 659,
+                "width": 247,
+                "height": 409
+            },
+            {
+                "label": "connector",
+                "x": 249,
+                "y": 1331,
+                "width": 442,
+                "height": 205
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1083,
+                "width": 430,
+                "height": 201
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1016,
+                "width": 174,
+                "height": 190
+            },
+            {
+                "label": "inductor",
+                "x": 1369,
+                "y": 1250,
+                "width": 167,
+                "height": 213
+            },
+            {
+                "label": "diode",
+                "x": 1250,
+                "y": 872,
+                "width": 269,
+                "height": 142
+            }
+        ]
+    }
+}

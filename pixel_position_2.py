@@ -3,7 +3,7 @@ import json
 import os
 
 # --- CONFIGURAZIONE ---
-FOTO_PATH = 'C:\\Job\\anomaly_detection\\images\\pcb.jpeg' 
+FOTO_PATH = r"C:\Users\MatteoNatale\OneDrive - GSR TECHNOLOGY\Desktop\job\anomaly_detection-1\images\\pcb.jpeg"
 OUTPUT_FILE = "bounding_boxes.labels" 
 
 img_filename = os.path.basename(FOTO_PATH)
