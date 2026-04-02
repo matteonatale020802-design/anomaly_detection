@@ -2,13 +2,55 @@
     "version": 1,
     "type": "bounding-box-labels",
     "boundingBoxes": {
-        "pcb11.jpg": [
+        "pcb.jpeg": [
             {
                 "label": "ESP32",
-                "x": 876,
-                "y": 28,
-                "width": 641,
-                "height": 411
+                "x": 624,
+                "y": 6,
+                "width": 725,
+                "height": 720
+            },
+            {
+                "label": "inductor",
+                "x": 23,
+                "y": 65,
+                "width": 264,
+                "height": 252
+            },
+            {
+                "label": "connector",
+                "x": 58,
+                "y": 643,
+                "width": 308,
+                "height": 434
+            },
+            {
+                "label": "connector",
+                "x": 742,
+                "y": 1071,
+                "width": 432,
+                "height": 229
+            },
+            {
+                "label": "connector",
+                "x": 276,
+                "y": 1317,
+                "width": 401,
+                "height": 219
+            },
+            {
+                "label": "inductor",
+                "x": 1356,
+                "y": 1008,
+                "width": 178,
+                "height": 213
+            },
+            {
+                "label": "inductor",
+                "x": 1364,
+                "y": 1242,
+                "width": 164,
+                "height": 217
             }
         ]
     }

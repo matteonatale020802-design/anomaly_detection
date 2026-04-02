@@ -1,0 +1,210 @@
+{
+    "version": 1,
+    "type": "bounding-box-labels",
+    "boundingBoxes": {
+        "pcb_crop_081.jpeg": [
+            {
+                "label": "inductor",
+                "x": 0,
+                "y": 0,
+                "width": 198,
+                "height": 152
+            },
+            {
+                "label": "connector",
+                "x": 0,
+                "y": 478,
+                "width": 277,
+                "height": 162
+            }
+        ],
+        "pcb_crop_082.jpeg": [
+            {
+                "label": "connector",
+                "x": 0,
+                "y": 542,
+                "width": 408,
+                "height": 98
+            }
+        ],
+        "pcb_crop_083.jpeg": [
+            {
+                "label": "ESP32",
+                "x": 181,
+                "y": 0,
+                "width": 459,
+                "height": 468
+            }
+        ],
+        "pcb_crop_084.jpeg": [
+            {
+                "label": "connector",
+                "x": 0,
+                "y": 0,
+                "width": 251,
+                "height": 419
+            }
+        ],
+        "pcb_crop_085.jpeg": [
+            {
+                "label": "ESP32",
+                "x": 0,
+                "y": 0,
+                "width": 545,
+                "height": 517
+            }
+        ],
+        "pcb_crop_086.jpeg": [
+            {
+                "label": "connector",
+                "x": 0,
+                "y": 67,
+                "width": 195,
+                "height": 434
+            }
+        ],
+        "pcb_crop_087.jpeg": [
+            {
+                "label": "connector",
+                "x": 379,
+                "y": 508,
+                "width": 261,
+                "height": 132
+            }
+        ],
+        "pcb_crop_088.jpeg": [
+            {
+                "label": "connector",
+                "x": 0,
+                "y": 0,
+                "width": 281,
+                "height": 309
+            },
+            {
+                "label": "connector",
+                "x": 191,
+                "y": 549,
+                "width": 401,
+                "height": 91
+            }
+        ],
+        "pcb_crop_089.jpeg": [
+            {
+                "label": "inductor",
+                "x": 19,
+                "y": 11,
+                "width": 264,
+                "height": 252
+            }
+        ],
+        "pcb_crop_091.jpeg": [
+            {
+                "label": "connector",
+                "x": 128,
+                "y": 440,
+                "width": 432,
+                "height": 200
+            }
+        ],
+        "pcb_crop_092.jpeg": [
+            {
+                "label": "connector",
+                "x": 0,
+                "y": 0,
+                "width": 112,
+                "height": 310
+            },
+            {
+                "label": "connector",
+                "x": 488,
+                "y": 304,
+                "width": 152,
+                "height": 229
+            },
+            {
+                "label": "connector",
+                "x": 22,
+                "y": 550,
+                "width": 401,
+                "height": 90
+            }
+        ],
+        "pcb_crop_093.jpeg": [
+            {
+                "label": "connector",
+                "x": 0,
+                "y": 331,
+                "width": 320,
+                "height": 229
+            },
+            {
+                "label": "inductor",
+                "x": 502,
+                "y": 268,
+                "width": 138,
+                "height": 213
+            },
+            {
+                "label": "inductor",
+                "x": 510,
+                "y": 502,
+                "width": 130,
+                "height": 138
+            }
+        ],
+        "pcb_crop_094.jpeg": [
+            {
+                "label": "connector",
+                "x": 233,
+                "y": 344,
+                "width": 407,
+                "height": 229
+            }
+        ],
+        "pcb_crop_095.jpeg": [
+            {
+                "label": "ESP32",
+                "x": 0,
+                "y": 0,
+                "width": 505,
+                "height": 466
+            }
+        ],
+        "pcb_crop_096.jpeg": [
+            {
+                "label": "connector",
+                "x": 18,
+                "y": 263,
+                "width": 308,
+                "height": 377
+            }
+        ],
+        "pcb_crop_097.jpeg": [
+            {
+                "label": "connector",
+                "x": 0,
+                "y": 557,
+                "width": 425,
+                "height": 83
+            }
+        ],
+        "pcb_crop_099.jpeg": [
+            {
+                "label": "ESP32",
+                "x": 0,
+                "y": 5,
+                "width": 577,
+                "height": 635
+            }
+        ],
+        "pcb_crop_100.jpeg": [
+            {
+                "label": "ESP32",
+                "x": 311,
+                "y": 0,
+                "width": 329,
+                "height": 436
+            }
+        ]
+    }
+}
