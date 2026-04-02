@@ -3,7 +3,7 @@ import json
 import os
 
 # --- CONFIGURAZIONE ---
-FOTO_PATH = r"C:\Users\MatteoNatale\OneDrive - GSR TECHNOLOGY\Desktop\job\anomaly_detection-1\images\pcb2.jpeg"
+FOTO_PATH = r"C:\Users\MatteoNatale\OneDrive - GSR TECHNOLOGY\Desktop\job\anomaly_detection-1\images\pcb11.jpg"
 OUTPUT_FILE = "bounding_boxes.labels"
 window_name = "Editor_Etichette" # Nome semplice, senza spazi strani
 
@@ -66,7 +66,7 @@ while True:
     cv2.imshow(window_name, img)
     key = cv2.waitKey(30) & 0xFF # 30ms di refresh mantengono la finestra attiva
     
-    if key == ord("s"):
+    if key == ord("s") or key == ord("S"):
         with open(OUTPUT_FILE, "w") as f:
             json.dump(ei_data, f, indent=4)
         print("FILE SALVATO CON SUCCESSO!")

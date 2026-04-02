@@ -2,13 +2,13 @@
     "version": 1,
     "type": "bounding-box-labels",
     "boundingBoxes": {
-        "pcb2.jpeg": [
+        "pcb11.jpg": [
             {
-                "label": "connector",
-                "x": 765,
-                "y": 1048,
-                "width": 395,
-                "height": 206
+                "label": "ESP32",
+                "x": 876,
+                "y": 28,
+                "width": 641,
+                "height": 411
             }
         ]
     }

@@ -1,0 +1,96 @@
+{
+    "version": 1,
+    "type": "bounding-box-labels",
+    "boundingBoxes": {
+        "pcb_001.jpeg": [
+            {
+                "label": "ESP32",
+                "x": 876,
+                "y": 28,
+                "width": 641,
+                "height": 411
+            }
+        ],
+        "pcb_002.jpeg": [
+            {
+                "label": "ESP32",
+                "x": 876,
+                "y": 28,
+                "width": 641,
+                "height": 411
+            }
+        ],
+        "pcb_003.jpeg": [
+            {
+                "label": "ESP32",
+                "x": 876,
+                "y": 28,
+                "width": 641,
+                "height": 411
+            }
+        ],
+        "pcb_004.jpeg": [
+            {
+                "label": "ESP32",
+                "x": 876,
+                "y": 28,
+                "width": 641,
+                "height": 411
+            }
+        ],
+        "pcb_005.jpeg": [
+            {
+                "label": "ESP32",
+                "x": 876,
+                "y": 28,
+                "width": 641,
+                "height": 411
+            }
+        ],
+        "pcb_006.jpeg": [
+            {
+                "label": "ESP32",
+                "x": 876,
+                "y": 28,
+                "width": 641,
+                "height": 411
+            }
+        ],
+        "pcb_007.jpeg": [
+            {
+                "label": "ESP32",
+                "x": 876,
+                "y": 28,
+                "width": 641,
+                "height": 411
+            }
+        ],
+        "pcb_008.jpeg": [
+            {
+                "label": "ESP32",
+                "x": 876,
+                "y": 28,
+                "width": 641,
+                "height": 411
+            }
+        ],
+        "pcb_009.jpeg": [
+            {
+                "label": "ESP32",
+                "x": 876,
+                "y": 28,
+                "width": 641,
+                "height": 411
+            }
+        ],
+        "pcb_010.jpeg": [
+            {
+                "label": "ESP32",
+                "x": 876,
+                "y": 28,
+                "width": 641,
+                "height": 411
+            }
+        ]
+    }
+}
