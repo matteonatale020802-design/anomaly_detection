@@ -4,11 +4,11 @@ import cv2
 import numpy as np
 
 # --- CONFIGURAZIONE ---
-ORIGINAL_IMAGE = r"C:\Users\MatteoNatale\OneDrive - GSR TECHNOLOGY\Desktop\job\anomaly_detection-1\images\pcb_webcam.jpg"
+ORIGINAL_IMAGE = r"C:\Users\MatteoNatale\OneDrive - GSR TECHNOLOGY\Desktop\job\anomaly_detection-1\images\original_ispezione_pcb_scatto_1.jpg"
 LABELS_FILE = "bounding_boxes.labels"
 OUTPUT_DIR_1 = "dataset/training"
 OUTPUT_DIR_2 = "dataset/testing"
-REPLICAS = 200 
+REPLICAS = 1500 
 SPLIT_RATIO = 0.8  # 80% training, 20% testing
 
 # Creazione cartelle

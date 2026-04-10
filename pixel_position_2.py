@@ -3,7 +3,7 @@ import json
 import os
 
 # --- CONFIGURAZIONE ---
-FOTO_PATH = r"C:\Users\MatteoNatale\OneDrive - GSR TECHNOLOGY\Desktop\job\anomaly_detection-1\images\pcb_webcam.jpg"
+FOTO_PATH = r"C:\Users\MatteoNatale\OneDrive - GSR TECHNOLOGY\Desktop\job\anomaly_detection-1\images\original_ispezione_pcb_scatto_1.jpg"
 OUTPUT_FILE = "bounding_boxes.labels"
 window_name = "Editor_Etichette" # Nome semplice, senza spazi strani
 
